@@ -1,0 +1,27 @@
+#box1
+{
+
+         border: 2px solid rgb(93, 5, 74);
+            margin: 10px;
+            padding: 10px;
+            
+            color: rgb(175, 26, 183);
+            font-size: larger;
+            font-style: italic;
+            background-color: rgba(128, 128, 128, 0.114);
+            font-family: 'Times New Roman', Times, serif;
+
+}
+#box2
+{
+    
+            border: 2px solid rgb(93, 5, 74);
+            margin: 10px;
+            padding: 10px;
+            
+            color: rgb(175, 26, 183);
+            font-size: larger;
+            font-style: italic;
+            background-color: rgba(128, 128, 128, 0.114);
+            font-family: 'Times New Roman', Times, serif;
+}
